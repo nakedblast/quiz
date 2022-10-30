@@ -3,9 +3,9 @@
 
 int main()
 {
-    char questions[][100] = { "Question A",
-                             "Question B",
-                             "Question c" };
+    char questions[][100] = { "Question 1",
+                             "Question 2",
+                             "Question 3" };
 
     char options[][100] = { "A wrong", "B correct", "C wrong", "D wrong",
                            "A wrong", "B wrong", "C wrong", "D correct",
